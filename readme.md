@@ -14,6 +14,8 @@ The bot is simple and its job is to find and collect coins.
 - Going off the map
 
 ### How to run
+Open the game
+The game should be in the upper left corner and have a size of 800px x 640px
 ```python
 install all requirements
 python main.py
