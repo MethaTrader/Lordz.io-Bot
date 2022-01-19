@@ -13,7 +13,7 @@ The bot is simple and its job is to find and collect coins.
 - Avoiding obstacles ta other players
 - Going off the map
 
-###How to run
+### How to run
 ```python
 install all requirements
 python main.py
